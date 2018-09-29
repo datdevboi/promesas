@@ -1,0 +1,9 @@
+{
+  "name": "promesas",
+  "version": "1.0.0",
+  "description": "A Promise Library for teaching purposes",
+  "main": "index.js",
+  "author": "Camilo Guerrero",
+  "license": "MIT",
+  "private": false
+}
